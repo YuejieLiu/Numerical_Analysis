@@ -1,0 +1,6 @@
+﻿  C2.cpp
+C:\C++\Numerical_Algebra\Numerical_Algebra_C2\Numerical_Algebra_C2\C2.cpp(9,15): warning C4101: “k”: 未引用的局部变量
+  C2_func.cpp
+  正在生成代码...
+C:\C++\Numerical_Algebra\Numerical_Algebra_C2\Numerical_Algebra_C2\C2_func.cpp(139): warning C4715: “norm_infinite_inverseTmatrix”: 不是所有的控件路径都返回值
+  Numerical_Algebra_C2.vcxproj -> C:\C++\Numerical_Algebra\Numerical_Algebra_C2\Debug\Numerical_Algebra_C2.exe
